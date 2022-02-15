@@ -14,6 +14,7 @@ Web development is my main focus now. I've worked with different technologies, s
 
 ### Frontend Applications
 
+- [Wordle Clone](https://github.com/JorgePasco1/wordle-clone)
 - [Popular on letterboxd](https://github.com/JorgePasco1/popular-on-letterboxd): A website where you can find the most viewed and liked films and film lists from the movie-enthusiast community Letterboxd.com
 - [Weight Tracker App](https://github.com/JorgePasco1/weight-tracker-app): Register weight logs for different dates and display them in a chart.
 - [Mac Calculator Clone](https://github.com/JorgePasco1/mac-calculator-clone): Clone of the calculator application of MacOS.
@@ -27,6 +28,8 @@ Web development is my main focus now. I've worked with different technologies, s
 
 ### Fun/Experimental/Miscelaneous
 
+- [🐰 tickets](https://github.com/JorgePasco1/bad-bunny-tickets)
+- [Advent of code 2021](https://github.com/JorgePasco1/advent-of-code-2021)
 - [Matrix Rain](https://github.com/JorgePasco1/Matrix-Rain): p5.js application that replicates the matrix rain.
 - [Flappy Bird](https://github.com/JorgePasco1/Flappy-Bird): p5.js application that replicates Flappy Bird.
 - [Advent of Code 2020](https://github.com/JorgePasco1/advent-of-code-2020): My solutions for Advent of Code 2020.
@@ -37,5 +40,6 @@ Data Science and Machine Learning are my second big passion. I'm still new to th
 
 ### Machine Learning
 
+- [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)
 - [Bulldoze Price Prediction](https://github.com/JorgePasco1/bulldozer-price-prediction): Machine Learning project to predict the auction price of bulldozers.
 - [Heart Disease Classification](https://github.com/JorgePasco1/heart-disease-classification): Classification machine learning model that will predict the presence of a heart disease in a patient.
