@@ -22,6 +22,7 @@ Web development is my main focus now. I've worked with different technologies, s
 
 ### Personal Projects
 
+- [Personal Site](https://github.com/JorgePasco1/personal-site): My personal site, featuring a showcase of my work and a blog.
 - [Among Us Discord Bot](https://github.com/JorgePasco1/among-us-discord-bot): Simple bot to get some useful commands related to Among Us in your Discord Channel.
 - [Web portfolio](https://github.com/JorgePasco1/web-portfolio): Personal Portfolio built with React.
 - [Clean-cra-template](https://github.com/JorgePasco1/cra-template-clean-cra): Basic, clean create-react-app template.
