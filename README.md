@@ -30,6 +30,7 @@ Web development is my main focus now. I've worked with different technologies, s
 
 ### Fun/Experimental/Miscelaneous
 
+- [Twitter News Summary](https://github.com/JorgePasco1/twitter-news-summary): Self host Nitter and get an GPT-powered summary of the latest tweets from a list of users.
 - [🐰 tickets](https://github.com/JorgePasco1/bad-bunny-tickets)
 - [Advent of code 2021](https://github.com/JorgePasco1/advent-of-code-2021)
 - [Matrix Rain](https://github.com/JorgePasco1/Matrix-Rain): p5.js application that replicates the matrix rain.
