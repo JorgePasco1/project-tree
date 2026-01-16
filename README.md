@@ -8,6 +8,7 @@ Web development is my main focus now. I've worked with different technologies, s
 
 ### Fullstack Applications
 
+- [Frag Stats](https://github.com/JorgePasco1/frag-stats): Tracking and stats for your fragrance usage.
 - [Real State App](https://github.com/JorgePasco1/django-real-state): App to manage real state offers.
 - [IP Address Tracker](https://github.com/JorgePasco1/ip-address-tracker): App to search for the location –and some extra info– of an IP address.
 - [Baster Escuela Website](https://github.com/JorgePasco1/baster-escuela-website): Website for peruvian table tennis club Baster Escuela de Tenis de Mesa. It implements subdomains for external and internal use.
@@ -22,6 +23,7 @@ Web development is my main focus now. I've worked with different technologies, s
 
 ### Personal Projects
 
+- [Twitter News Summary](https://github.com/JorgePasco1/twitter-news-summary): Self host Nitter and get an GPT-powered summary of the latest tweets from a list of users.
 - [Personal Site](https://github.com/JorgePasco1/personal-site): My personal site, featuring a showcase of my work and a blog.
 - [Among Us Discord Bot](https://github.com/JorgePasco1/among-us-discord-bot): Simple bot to get some useful commands related to Among Us in your Discord Channel.
 - [Web portfolio](https://github.com/JorgePasco1/web-portfolio): Personal Portfolio built with React.
@@ -30,7 +32,8 @@ Web development is my main focus now. I've worked with different technologies, s
 
 ### Fun/Experimental/Miscelaneous
 
-- [Twitter News Summary](https://github.com/JorgePasco1/twitter-news-summary): Self host Nitter and get an GPT-powered summary of the latest tweets from a list of users.
+- [Obsync](https://github.com/JorgePasco1/obsync): Sync your files between folders.
+- [Advent of Code 2025](https://github.com/JorgePasco1/advent-of-code-2025)
 - [🐰 tickets](https://github.com/JorgePasco1/bad-bunny-tickets)
 - [Advent of code 2021](https://github.com/JorgePasco1/advent-of-code-2021)
 - [Matrix Rain](https://github.com/JorgePasco1/Matrix-Rain): p5.js application that replicates the matrix rain.
