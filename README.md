@@ -38,7 +38,6 @@ Web development is my main focus now. I've worked with different technologies, s
 - [Advent of code 2021](https://github.com/JorgePasco1/advent-of-code-2021)
 - [Matrix Rain](https://github.com/JorgePasco1/Matrix-Rain): p5.js application that replicates the matrix rain.
 - [Flappy Bird](https://github.com/JorgePasco1/Flappy-Bird): p5.js application that replicates Flappy Bird.
-- [Advent of Code 2020](https://github.com/JorgePasco1/advent-of-code-2020): My solutions for Advent of Code 2020.
 
 ## Data Science / Machine Learning
 
